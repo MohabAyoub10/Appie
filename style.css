@@ -975,7 +975,7 @@ li {
 
 /*media query*/
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
   .price-title {
     font-size: 25px;
   }
