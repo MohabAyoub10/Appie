@@ -1,6 +1,6 @@
 # Appie
 
-Appie is a Responsive HTML & CSS project designed to provide an intuitive and user-friendly experience. The project has been crafted with the following technologies:
+Appie is a Responsive HTML & CSS page designed to provide an intuitive and user-friendly experience. The page has been crafted with the following technologies:
 
 1.**HTML** for structure and content
 
