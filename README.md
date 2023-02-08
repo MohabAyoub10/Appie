@@ -6,8 +6,8 @@ Appie is a Responsive HTML & CSS project designed to provide an intuitive and us
 
 2.**CSS** for styling and layout
 
-3.**FlexBox** for efficient and flexible layout
+ * **FlexBox** for efficient and flexible layout
 
-4.**Grid** for creating dynamic and responsive grid-based designs
+ * **Grid** for creating dynamic and responsive grid-based designs
 
-5.**Bootstrap icons** for adding a touch of visual appeal
+3.**Bootstrap icons** for adding a touch of visual appeal
