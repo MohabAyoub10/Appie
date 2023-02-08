@@ -525,7 +525,7 @@ a {
   align-items: center;
   padding: 10px 30px 10px 20px;
   border-radius: 15px;
-  gap: 15px;
+  gap: 0px;
 }
 
 .iOS-btn {
@@ -557,7 +557,7 @@ a {
   fill: #0e1133;
   width: 40px;
   height: 40px;
-  padding: 7px;
+  padding: 8px;
   border-radius: 10%;
 }
 
@@ -565,7 +565,7 @@ a {
   fill: white;
   width: 40px;
   height: 40px;
-  padding: 7px;
+  padding: 8px;
   border-radius: 10%;
 }
 
@@ -773,7 +773,6 @@ a {
 }
 .theReview .info {
   font-size: 20px;
-  width: 45rem;
 }
 .all-reviewers {
   display: flex;
@@ -1101,6 +1100,7 @@ li {
   }
   .service-section {
     padding: 40px;
+    overflow: hidden;
     height: auto;
   }
   .service-info h1 {
@@ -1154,7 +1154,6 @@ li {
   }
   .learning-video img {
     height: 200px;
-    width: 380px;
   }
   .avatar-container .avatar {
     height: 350px;
@@ -1189,7 +1188,6 @@ li {
 
   .theReview .info {
     font-size: 20px;
-    width: 20rem;
   }
   .reviews-containter {
     flex-direction: column;
@@ -1207,5 +1205,18 @@ li {
   }
   .platforms-grid .fixed12 {
     display: block;
+  }
+}
+
+@media (max-width: 375px) {
+  .download-btn {
+    flex-direction: column;
+  }
+
+  .nav-button {
+    font-size: 10px;
+    padding: 15px 10px;
+    width: auto;
+    font-weight: bold;
   }
 }
